@@ -14,11 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
+          Angazhimi ne projekte individuale permes "self-learning" dhe zhvillimi
+         i projekteve te kerkuara nga planprogramet e Universitetit "UBT, Shkenca Kompjuterike dhe inxhinieri"
+         dhe Cacttus Education jane shtyllat kryesore te krijimit te aftesive baze  per programim.
+         Pergjate ketyre 3 viteve kam kontribuar ne zhvillimin e projekteve individuale dhe ne grup.
+         Gjate kesaj kohe modulet apo teknologjite e perdorura fillojne 
+         prej bazave si HTML,CSS databazave(mysql,mongodb) e deri tek React,Vue,.NET MVC e shume te tjera
+         .Por ne baze te Njohurive te fituara dhe deshires,interesimi im qendron ne React dhe ne Vuejs.
           ab mollitia voluptatibus, a nostrum eveniet laborum!
         </p>
 
