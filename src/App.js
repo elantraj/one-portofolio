@@ -1,4 +1,5 @@
 import React from 'react'
+import Contact from "./components/Contact";
 import About from "./components/About";
 import Experience from "./components/Experience";
 import Home from "./components/Home";
@@ -14,6 +15,8 @@ function App() {
  <About />
  <Portfolio />
  <Experience />
+ <Contact />
+
  <SocialLinks />
  </div>
   );
